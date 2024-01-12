@@ -1,0 +1,47 @@
+These are some of the basic facts on the country:
+
+
+Name: {'common': 'Denmark', 'official': 'Kingdom of Denmark', 'nativeName': {'dan': {'official': 'Kongeriget Danmark', 'common': 'Danmark'}}}
+Languages: {'dan': 'Danish'}
+Currencies: {'DKK': {'name': 'Danish krone', 'symbol': 'kr'}}
+Alt Spellings: ['DK', 'Danmark', 'Kingdom of Denmark', 'Kongeriget Danmark']
+
+these are the top headlines on the country of choice today:
+
+
+Title: Inside the life of Denmark's 'Ashtray Queen' Margrethe II and the husband who would never become her king
+Author: Rebecca Armitage, Lucy Sweeney
+Description: After more than 50 years on the throne, Denmark's Queen Margrethe is abdicating to her son. But there was one man who could never come as close to the queen as her crown.
+Published At: 2024-01-06T18:47:05Z
+URL: https://www.abc.net.au/news/2024-01-07/queen-margrethe-ii-denmarks-longest-reigning-monarch/103282260
+URL to Image: https://live-production.wcms.abc-cdn.net.au/fafe18563427a2c7108b8fd2a70f6609?impolicy=wcms_crop_resize&cropH=2492&cropW=4430&xPos=0&yPos=13&width=862&height=485
+Content: Always a planner, the Queen of Denmark in 2003 commissioned an artist to construct an elaborate glass sarcophagus that she envisioned as the final resting place for herself and her husband.
+Reflecti… [+16208 chars]
+
+Title: Surge in Omicron cases in Denmark and UK sends warning to rest of Europe
+Author: None
+Description: Two countries show how the coronavirus variant is driving rates of infection and hospital admission
+Published At: 2021-12-14T06:22:22.5088577Z
+URL: https://www.ft.com/content/3c27c135-fdbc-4db7-8c7c-6e1f6c386235
+URL to Image: https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb164d5c6-67c9-46dd-83de-2bd1ba13642a.jpg?source=next-opengraph&fit=scale-down&width=900
+Content: Omicron will become the dominant coronavirus variant in Denmark this week, epidemiologists say, driving a rise in cases to record levels and offering a warning to the rest of Europe about the more tr… [+5299 chars]
+
+This is the weather forecast for today in the country:
+
+
+temp: 281.23
+feels_like: 277.95
+temp_min: 280.2
+temp_max: 282.16
+pressure: 1015
+humidity: 99
+sea_level: 1015
+grnd_level: 1007
+
+Additional Weather Information about the weather:
+
+
+id: 501
+main: Rain
+description: moderate rain
+icon: 10n
